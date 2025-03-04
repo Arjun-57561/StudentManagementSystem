@@ -71,7 +71,7 @@ Student added successfully!
 
 ## 📜 Contributors
 
-- **Your Name** - [GitHub Profile](https://github.com/your-username)
+- **Your Name** - [GitHub Profile](https://github.com/Arjun-57561)
 
 ## 📄 License
 
